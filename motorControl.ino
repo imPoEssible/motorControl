@@ -37,5 +37,5 @@ void loop() {
      rightMotor->run(RELEASE);
      leftMotor->run(RELEASE);
    }
-   Serial.println(blink_state);
+   //Serial.println(blink_state);
 }
